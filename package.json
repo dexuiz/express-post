@@ -1,0 +1,24 @@
+{
+  "name": "express-post",
+  "version": "1.0.0",
+  "description": "basic app to learn post requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexuiz/express-post.git"
+  },
+  "author": "dexuiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexuiz/express-post/issues"
+  },
+  "homepage": "https://github.com/dexuiz/express-post#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
